@@ -24,11 +24,12 @@
   },
   "keywords": [],
   "author": {
-    "name": "MrMaratuk",
+    "name": "mbutsk",
     "email": "maratik1036@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
+    "electron-builder": "^24.13.3",
     "electron-squirrel-startup": "^1.0.1"
   }
 }
